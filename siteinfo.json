@@ -1,13 +1,1 @@
-{
-"services":
-  {
-    "twitch":"https://api.twitch.tv/api/channels/",
-    "facebook":"https://www.facebook.com/settings",
-    "funpay":"https://funpay.ru/account/balance",
-    "vk":"https://vk.com/id0",
-    "instagram":"https://www.instagram.com/",
-    "battlenet":"https://eu.account.blizzard.com/gifts/navbar",
-    "steam":"https://store.steampowered.com/account/",
-    "youtube":"https://studio.youtube.com/"
-  }
-}
+
